@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\jan22-angular-dev\\app1"
+		},
+		{
+			"path": "..\\..\\jan22-angular-dev\\app2"
+		},
+		{
+			"path": "C:\\Users\\91911\\Desktop\\myScript"
+		},
+		{
+			"path": "C:\\Users\\91911\\Desktop\\HtmlDom"
+		},
+		{
+			"path": "C:\\Users\\91911\\Desktop\\events"
+		},
+		{
+			"path": "C:\\Users\\91911\\Desktop\\AJAX"
+		},
+		{
+			"path": "C:\\Users\\91911\\Desktop\\webSocket"
+		},
+		{
+			"path": "..\\css"
+		},
+		{
+			"path": "..\\learnBootstrap"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "jQuery"
+	}
+}

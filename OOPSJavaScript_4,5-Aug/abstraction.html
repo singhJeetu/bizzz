@@ -1,0 +1,22 @@
+<script>  
+ function Vehicle()  //Creating a constructor function 
+{  
+    this.vehicleName="vehicleName";  
+    throw new Error("You cannot create an instance of Abstract Class");  
+}  
+Vehicle.prototype.display=function()  
+{  
+    return "Vehicle is: "+this.vehicleName;  
+}  
+ 
+function Bike(vehicleName)   //Creating a constructor function 
+{  
+    this.vehicleName=vehicleName;  
+}  
+//Creating object without using the function constructor  
+Bike.prototype=Object.create(Vehicle.prototype);  
+var bike=new Bike("Honda");  
+document.writeln(bike.display());  
+  
+  
+ </script>
