@@ -1,0 +1,13 @@
+C:\Users\91911\source\repos\ExceptionHandeling\bin\Debug\netcoreapp3.1\ExceptionHandeling.exe
+C:\Users\91911\source\repos\ExceptionHandeling\bin\Debug\netcoreapp3.1\ExceptionHandeling.deps.json
+C:\Users\91911\source\repos\ExceptionHandeling\bin\Debug\netcoreapp3.1\ExceptionHandeling.runtimeconfig.json
+C:\Users\91911\source\repos\ExceptionHandeling\bin\Debug\netcoreapp3.1\ExceptionHandeling.runtimeconfig.dev.json
+C:\Users\91911\source\repos\ExceptionHandeling\bin\Debug\netcoreapp3.1\ExceptionHandeling.dll
+C:\Users\91911\source\repos\ExceptionHandeling\bin\Debug\netcoreapp3.1\ExceptionHandeling.pdb
+C:\Users\91911\source\repos\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.csprojAssemblyReference.cache
+C:\Users\91911\source\repos\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.AssemblyInfoInputs.cache
+C:\Users\91911\source\repos\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.AssemblyInfo.cs
+C:\Users\91911\source\repos\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.csproj.CoreCompileInputs.cache
+C:\Users\91911\source\repos\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.dll
+C:\Users\91911\source\repos\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.pdb
+C:\Users\91911\source\repos\ExceptionHandeling\obj\Debug\netcoreapp3.1\ExceptionHandeling.genruntimeconfig.cache
