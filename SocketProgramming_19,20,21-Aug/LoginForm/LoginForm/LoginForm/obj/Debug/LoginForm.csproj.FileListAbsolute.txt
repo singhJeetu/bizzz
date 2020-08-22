@@ -1,0 +1,12 @@
+C:\Users\91911\source\repos\LoginForm\LoginForm\LoginForm\bin\Debug\EmployeeDb.mdf
+C:\Users\91911\source\repos\LoginForm\LoginForm\LoginForm\bin\Debug\EmployeeDb_log.ldf
+C:\Users\91911\source\repos\LoginForm\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\91911\source\repos\LoginForm\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\91911\source\repos\LoginForm\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\91911\source\repos\LoginForm\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\91911\source\repos\LoginForm\LoginForm\LoginForm\obj\Debug\LoginForm.frmMain.resources
+C:\Users\91911\source\repos\LoginForm\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\91911\source\repos\LoginForm\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\91911\source\repos\LoginForm\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\91911\source\repos\LoginForm\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\91911\source\repos\LoginForm\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
