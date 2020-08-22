@@ -1,0 +1,3 @@
+An Object of XMLHttpRequest is used
+for asynchronous communication between
+client and server

@@ -1,0 +1,29 @@
+<!--displaying the password strength when releases the key after press.-->
+
+<html>
+<body>
+<script type="text/javascript" >  
+  function validate()
+   {  
+    var msg;  
+    if(document.myForm.password.value.length>5)
+    {  
+     msg="good";  
+    }  
+    else
+    {  
+     msg="poor";  
+     }  
+     document.getElementById('mylocation').innerText=msg;  
+    }  
+  
+</script> 
+
+
+<form name="myForm">  
+    <input type="password" value="" name="password" onkeyup="validate()">  
+    Password Strength:<span id="mylocation">No Strength</span>  
+</form>  
+
+</body>
+</html>
