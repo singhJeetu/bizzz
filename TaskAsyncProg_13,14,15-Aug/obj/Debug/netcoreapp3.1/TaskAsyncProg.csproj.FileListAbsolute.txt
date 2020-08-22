@@ -1,0 +1,13 @@
+C:\Users\91911\source\repos\TaskAsyncProg\bin\Debug\netcoreapp3.1\TaskAsyncProg.exe
+C:\Users\91911\source\repos\TaskAsyncProg\bin\Debug\netcoreapp3.1\TaskAsyncProg.deps.json
+C:\Users\91911\source\repos\TaskAsyncProg\bin\Debug\netcoreapp3.1\TaskAsyncProg.runtimeconfig.json
+C:\Users\91911\source\repos\TaskAsyncProg\bin\Debug\netcoreapp3.1\TaskAsyncProg.runtimeconfig.dev.json
+C:\Users\91911\source\repos\TaskAsyncProg\bin\Debug\netcoreapp3.1\TaskAsyncProg.dll
+C:\Users\91911\source\repos\TaskAsyncProg\bin\Debug\netcoreapp3.1\TaskAsyncProg.pdb
+C:\Users\91911\source\repos\TaskAsyncProg\obj\Debug\netcoreapp3.1\TaskAsyncProg.csprojAssemblyReference.cache
+C:\Users\91911\source\repos\TaskAsyncProg\obj\Debug\netcoreapp3.1\TaskAsyncProg.AssemblyInfoInputs.cache
+C:\Users\91911\source\repos\TaskAsyncProg\obj\Debug\netcoreapp3.1\TaskAsyncProg.AssemblyInfo.cs
+C:\Users\91911\source\repos\TaskAsyncProg\obj\Debug\netcoreapp3.1\TaskAsyncProg.csproj.CoreCompileInputs.cache
+C:\Users\91911\source\repos\TaskAsyncProg\obj\Debug\netcoreapp3.1\TaskAsyncProg.dll
+C:\Users\91911\source\repos\TaskAsyncProg\obj\Debug\netcoreapp3.1\TaskAsyncProg.pdb
+C:\Users\91911\source\repos\TaskAsyncProg\obj\Debug\netcoreapp3.1\TaskAsyncProg.genruntimeconfig.cache
